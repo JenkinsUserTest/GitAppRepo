@@ -1,0 +1,1 @@
+mvn clean verify sonar:sonar -Pcoverage -Dsonar.projectKey=COHORTTESTCOVERAGE003 -Dsonar.projectName='COHORTTESTCOVERAGE003'-Dsonar.host.url=http://localhost:9000 -Dsonar.token=sqp_d54745f72d5aa5a2e026966cdbe2f6429b4e5559
